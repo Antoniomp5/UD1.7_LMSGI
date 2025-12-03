@@ -1,0 +1,62 @@
+{
+    "catalogo": {
+        "productos": [
+            {
+                "titulo": "Helado de Happy Hippo",
+                "enlace": "href=https://heladin.es/helados-cubetas/34-helado-dulce-de-leche.html",
+                "imagen": "src=happy-hippo.jpg",
+                "moneda": "EUR",
+                "precio": 67.00,
+                "enOferta": true
+            },
+            {
+                "titulo": "Helado de Snickers",
+                "enlace": "href=https://heladin.es/helados-cubetas/34-helado-dulce-de-leche.html",
+                "imagen": "src=snickers.jpg",
+                "moneda": "EUR",
+                "precio": 64.00,
+                "enOferta": true
+            },
+            {
+                "titulo": "Helado de Lotus",
+                "enlace": "href=https://www.bonviveur.es/recetas/helado-de-galletas-lotus",
+                "imagen": "src=2023033119384590691.jpg",
+                "moneda": "EUR",
+                "precio": 63.00,
+                "enOferta": true
+            },
+            {
+                "titulo": "Helado de Dulce de Leche",
+                "enlace": "href=https://www.directoalpaladar.com/postres/receta-de-helado-de-dulce-de-leche",
+                "imagen": "src=ingrediente-dulce-de-leche.jpg",
+                "moneda": "EUR",
+                "precio": 60.00,
+                "enOferta": true
+            },
+            {
+                "titulo": "Helado de vainilla",
+                "enlace": "href=https://invitadoinvierno.com/helado-de-vainilla-casero",
+                "imagen": "src=descarga.jpg",
+                "moneda": "EUR",
+                "precio": 57.00,
+                "enOferta": true
+            },
+            {
+                "titulo": "Sorbete de mango",
+                "enlace": "href=about:blank",
+                "imagen": "src=3a4bd8852752edad258998da6a763e6d.jpg",
+                "moneda": "EUR",
+                "precio": 55.00,
+                "enOferta": false
+            },
+            {
+                "titulo": "Sorbete de mandarina",
+                "enlace": "href=about:blank",
+                "imagen": "src=3a4bd8852752edad258998da6a763e6d.jpg",
+                "moneda": "EUR",
+                "precio": 55.00,
+                "enOferta": false
+            }
+        ]
+    }
+}

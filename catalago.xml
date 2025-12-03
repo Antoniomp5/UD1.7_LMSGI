@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+    <producto>
+        <titulo>Helado de Happy Hippo</titulo>
+        <enlace href="https://heladin.es/helados-cubetas/34-helado-dulce-de-leche.html"/>
+        <imagen src="happy-hippo.jpg"/>
+        <descripcion>Este helado combina la cremosidad de la crema de avellanas, nata, leche y azúcar, con el toque
+            crujiente del chocolate blanco y los deliciosos Happy Hippo.</descripcion>
+        <precio moneda="EUR">67,00€</precio>
+    </producto>
+    <producto>
+        <titulo>Helado de Snickers</titulo>
+        <enlace href="https://heladin.es/helados-cubetas/34-helado-dulce-de-leche.html"/>
+        <imagen src="snickers.jpg"/>
+        <descripcion>Disfruta de la combinación perfecta de crema de cacahuete, nata, leche, azúcar, chocolate con leche,
+                    Snickers y caramelo salado.</descripcion>
+        <precio moneda="EUR">64,00€</precio>
+    </producto>
+    <producto>
+        <titulo>Helado de Lotus</titulo>
+        <enlace href="https://www.bonviveur.es/recetas/helado-de-galletas-lotus"/>
+        <imagen src="2023033119384590691.jpg"/>
+        <descripcion>Sumérgete en el sabor único de la crema de galletas Lotus, combinada con nata, leche y azúcar.</descripcion>
+        <precio moneda="EUR">63,00€</precio>
+    </producto>
+    <producto>
+        <titulo>Helado de Dulce de Leche</titulo>
+        <enlace href="https://www.directoalpaladar.com/postres/receta-de-helado-de-dulce-de-leche"/>
+        <imagen src="ingrediente-dulce-de-leche.jpg" />
+        <descripcion>Un clásico que nunca falla: helado de dulce de leche repostero, con la suavidad de la nata y la
+                    leche.</descripcion>
+        <precio moneda="EUR">60,00€</precio>
+    </producto>
+    <producto>
+        <titulo>Helado de vainilla</titulo>
+        <enlace href="https://invitadoinvierno.com/helado-de-vainilla-casero"/>
+        <imagen src="descarga.jpg"/>
+        <descripcion>Un clásico inmemorial.</descripcion>
+        <precio moneda="EUR">57,00€</precio>
+    </producto>
+    <producto>
+        <titulo>Sorbete de mango</titulo>
+        <enlace href="about:blank"/>
+        <imagen src="3a4bd8852752edad258998da6a763e6d.jpg"/>
+        <descripcion>Refrscante sorbete natural de mango.</descripcion>
+        <precio moneda="EUR">55,00€</precio>
+    </producto>
+    <producto>
+        <titulo>Sorbete de mandarina</titulo>
+        <enlace href="about:blank"/>
+        <imagen src="3a4bd8852752edad258998da6a763e6d.jpg"/>
+        <descripcion>No te defraudará el sorbete de mandarina.</descripcion>
+        <precio moneda="EUR">55,00€</precio>
+    </producto>
+</catalogo>
+<!-- La conversión del HTML original llamdo micatalogo.html a este XML se dio en base a los PDFs, explicaciones en clase
+y busquedas en internet para poder realizarlo/validarlo para evitar erratas. Siguiendo esas idicaciones para reaizar la traducción en condiciones-->
+<!-- Se le agrego las categorias de articulo, produto/producto, precio (indicando la moneda en EUR), imagen y la descripción del mismo
+ junto con el titulo para poder formar este XML-->
